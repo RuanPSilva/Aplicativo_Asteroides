@@ -8,7 +8,6 @@ Este projeto tem como intuito desenvolver um protótipo de um jogo com base nas 
 * [Tela 1 ‐ Menu](https://github.com/davin4sciment0/Aplicativo_Asteroides/wiki/Tela-1-%E2%80%90-Menu)
 * [Tela 2 ‐ Jogabilidade](https://github.com/davin4sciment0/Aplicativo_Asteroides/wiki/Tela-2-%E2%80%90-Jogabilidade)
 * [Tela 3 ‐ Avisos](https://github.com/davin4sciment0/Aplicativo_Asteroides/wiki/Tela-3-%E2%80%90-Avisos)
-* [Aplicativo](https://github.com/RuanPSilva/Aplicativo_Asteroides/wiki/Aplicativo)
 
 ## Video do App🌠
 
