@@ -11,7 +11,11 @@ Este projeto tem como intuito desenvolver um protótipo de um jogo com base nas 
 
 ## Video do App🌠
 
-https://github.com/user-attachments/assets/7854b198-5129-4ed9-941c-ae3e2f57bb57
+
+https://github.com/user-attachments/assets/eec6220d-2e91-48f1-867a-36a256e77f35
+
+
+
 
 ## Link do arquivo com os códigos
 * https://drive.google.com/drive/folders/1qv9EorVrNOqFFWyLfDQFuSurQDvmm4ul
